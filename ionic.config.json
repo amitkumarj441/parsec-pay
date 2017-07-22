@@ -1,0 +1,8 @@
+{
+  "name": "parsec-pay",
+  "app_id": "da453720",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
+}
